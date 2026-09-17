@@ -30,7 +30,7 @@ do
 
     case $opc in
         1)
-            ./menu_de_usuarios.sh
+            ./menu_gestion_usuarios.sh
             ;;
 
         2)
