@@ -42,7 +42,7 @@ do
             ;;
 
         4)
-            echo "Gestión de Redes"
+            ./menu_de_redes.sh
             ;;
 
         5)
@@ -54,7 +54,7 @@ do
             ;;
 
         7)
-            echo "Gestión de Logs"
+            menu_de_logs.sh
             ;;
 
         8)
