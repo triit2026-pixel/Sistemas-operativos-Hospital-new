@@ -54,7 +54,7 @@ do
             ;;
 
         7)
-            menu_de_logs.sh
+            ./menu_de_logs.sh
             ;;
 
         8)
